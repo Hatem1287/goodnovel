@@ -8,3 +8,4 @@
 <p><a href="post/make.com-automation-seooptimized-ai-content-with-claude-ai-.md">Make.com Automation Seooptimized Ai Content With Claude Ai </a></p>
 <p><a href="post/clever-refferal-autoresponder-.md">Clever Refferal Autoresponder </a></p>
 <p><a href="post/discovery-call-form--send-email-.md">Discovery Call Form  Send Email </a></p>
+<p><a href="post/youtube-content-idea-generator-.md">Youtube Content Idea Generator </a></p>
