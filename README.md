@@ -7,3 +7,4 @@
 <p><a href="post/ai-powered-email-personalization-.md">Ai Powered Email Personalization </a></p>
 <p><a href="post/make.com-automation-seooptimized-ai-content-with-claude-ai-.md">Make.com Automation Seooptimized Ai Content With Claude Ai </a></p>
 <p><a href="post/clever-refferal-autoresponder-.md">Clever Refferal Autoresponder </a></p>
+<p><a href="post/discovery-call-form--send-email-.md">Discovery Call Form  Send Email </a></p>
