@@ -20,3 +20,4 @@
 <p><a href="post/voice-ai-agent-will-call-anyone-for-you--automatic-.md">Voice Ai Agent Will Call Anyone For You  Automatic </a></p>
 <p><a href="post/5-n8n-scenarios-for-new-lead-ai-agent-reporting-webhooks-.md">5 N8n Scenarios For New Lead Ai Agent Reporting Webhooks </a></p>
 <p><a href="post/ai-automation-workflow-that-translates-any-video-.md">Ai Automation Workflow That Translates Any Video </a></p>
+<p><a href="post/create-mckinseystyle-competitive-analysis-reports-with-ai-.md">Create Mckinseystyle Competitive Analysis Reports With Ai </a></p>
