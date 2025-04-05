@@ -22,3 +22,4 @@
 <p><a href="post/ai-automation-workflow-that-translates-any-video-.md">Ai Automation Workflow That Translates Any Video </a></p>
 <p><a href="post/create-mckinseystyle-competitive-analysis-reports-with-ai-.md">Create Mckinseystyle Competitive Analysis Reports With Ai </a></p>
 <p><a href="post/first-step-into-ai-automations-.md">First Step Into Ai Automations </a></p>
+<p><a href="post/proposal-automation-.md">Proposal Automation </a></p>
