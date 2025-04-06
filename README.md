@@ -28,3 +28,4 @@
 <p><a href="post/ai-project-commander-.md">Ai Project Commander </a></p>
 <p><a href="post/double-inbound-lead-conversion-.md">Double Inbound Lead Conversion </a></p>
 <p><a href="post/post-call--action-items-.md">Post Call  Action Items </a></p>
+<p><a href="post/ai-content-strategist-.md">Ai Content Strategist </a></p>
