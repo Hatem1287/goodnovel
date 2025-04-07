@@ -38,3 +38,4 @@
 <p><a href="post/seo-wordpress-ai-blog-assistant-.md">Seo Wordpress Ai Blog Assistant </a></p>
 <p><a href="post/email-handling-ai-assistant-.md">Email Handling Ai Assistant </a></p>
 <p><a href="post/customer-feedback-ai-assistant-.md">Customer Feedback Ai Assistant </a></p>
+<p><a href="post/make-viral-ads-using-ai--step-by-step-guide-.md">Make Viral Ads Using Ai  Step By Step Guide </a></p>
