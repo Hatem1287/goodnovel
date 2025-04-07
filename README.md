@@ -36,3 +36,4 @@
 <p><a href="post/automating-client-onboarding-.md">Automating Client Onboarding </a></p>
 <p><a href="post/ai-recruitment-cv-analysis-.md">Ai Recruitment Cv Analysis </a></p>
 <p><a href="post/seo-wordpress-ai-blog-assistant-.md">Seo Wordpress Ai Blog Assistant </a></p>
+<p><a href="post/email-handling-ai-assistant-.md">Email Handling Ai Assistant </a></p>
