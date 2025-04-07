@@ -33,3 +33,4 @@
 <p><a href="post/discovery-call-form-to-send-proposal-.md">Discovery Call Form To Send Proposal </a></p>
 <p><a href="post/reputation-management-ai-assistant-.md">Reputation Management Ai Assistant </a></p>
 <p><a href="post/instagram-ai-messaging-and-follow-ups-system-.md">Instagram Ai Messaging And Follow Ups System </a></p>
+<p><a href="post/automating-client-onboarding-.md">Automating Client Onboarding </a></p>
