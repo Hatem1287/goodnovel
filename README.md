@@ -34,3 +34,4 @@
 <p><a href="post/reputation-management-ai-assistant-.md">Reputation Management Ai Assistant </a></p>
 <p><a href="post/instagram-ai-messaging-and-follow-ups-system-.md">Instagram Ai Messaging And Follow Ups System </a></p>
 <p><a href="post/automating-client-onboarding-.md">Automating Client Onboarding </a></p>
+<p><a href="post/ai-recruitment-cv-analysis-.md">Ai Recruitment Cv Analysis </a></p>
