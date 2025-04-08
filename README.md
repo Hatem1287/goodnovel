@@ -41,3 +41,4 @@
 <p><a href="post/make-viral-ads-using-ai--step-by-step-guide-.md">Make Viral Ads Using Ai  Step By Step Guide </a></p>
 <p><a href="post/content-creation-generator-automate-your-content-creation-.md">Content Creation Generator Automate Your Content Creation </a></p>
 <p><a href="post/slack-ai-assistant--automate-tasks-on-slack-.md">Slack Ai Assistant  Automate Tasks On Slack </a></p>
+<p><a href="post/payment-tracking-system--automated-payment-reminders-.md">Payment Tracking System  Automated Payment Reminders </a></p>
