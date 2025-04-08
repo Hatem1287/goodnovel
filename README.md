@@ -44,3 +44,4 @@
 <p><a href="post/payment-tracking-system--automated-payment-reminders-.md">Payment Tracking System  Automated Payment Reminders </a></p>
 <p><a href="post/ai-resume-screening-system--automate-cv-screening-.md">Ai Resume Screening System  Automate Cv Screening </a></p>
 <p><a href="post/high-ticket-email-system--automate-email-campaigns-.md">High Ticket Email System  Automate Email Campaigns </a></p>
+<p><a href="post/create-an-animated-ai-influencer-for-your-brand-.md">Create An Animated Ai Influencer For Your Brand </a></p>
