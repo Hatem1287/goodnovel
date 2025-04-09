@@ -48,3 +48,4 @@
 <p><a href="post/yt-parasite-system-chatgpt-growth-hack-.md">Yt Parasite System Chatgpt Growth Hack </a></p>
 <p><a href="post/linkedin-ai-parasite-system-.md">Linkedin Ai Parasite System </a></p>
 <p><a href="post/search-intent-email-finder-system-.md">Search Intent Email Finder System </a></p>
+<p><a href="post/wordpress-content-syndicator-.md">Wordpress Content Syndicator </a></p>
